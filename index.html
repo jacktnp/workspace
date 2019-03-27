@@ -25,9 +25,18 @@
     </div>
   </div>
 </nav>
-
-<div class="container" id="workspace_db">
- 	<h1 class="mt-5">Recent :</h1>
+<div id="workspace_db">
+		<div class="container">
+				<h1 class="mt-5">Recent :</h1>
+				<div class="card-deck mt-3">
+						<div class="card" v-for="list in project">
+							<p>{{ list }}</p>
+						</div>
+				</div>
+		</div>
+</div>
+<!-- <div class="container">
+ 	
 	<div class="card-deck mt-3">
 	  <div class="card" v-for="list in project">
 	    <img class="card-img-top" :src="list.image" :alt="link.title">
@@ -61,7 +70,7 @@
   		</div>
 	</div>
 
-</div><!--close container-->
+</div> -->
 
 <footer>
   <center>
