@@ -82,7 +82,7 @@ var app = new Vue({
                 subject: "Practice Skills",
                 detail: "Vue.js",
                 admin: ['Jack']
-            },
+            }
         ],
         
         upcoming: [
