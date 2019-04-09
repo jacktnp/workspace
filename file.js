@@ -5,7 +5,7 @@ var app = new Vue({
             {
                 id: 1,
                 title: "JO!NTY",
-                image: "assets/jointy.png",
+                image: "https://i.imgur.com/HlYwOES.jpg",
                 link: "/jointy",
                 subject: "Information Fundamental Technology",
                 detail: "ปี1เทอม1",
@@ -14,7 +14,7 @@ var app = new Vue({
             {
                 id: 2,
                 title: "Nakhonpratom Travel",
-                image: "assets/multi.png",
+                image: "https://i.imgur.com/FqcIOh1.jpg",
                 link: "/nakhon",
                 subject: "Multimedia",
                 detail: "ปี1เทอม2",
@@ -23,7 +23,7 @@ var app = new Vue({
             {
                 id: 3,
                 title: "Loofer",
-                image: "assets/loofer.png",
+                image: "https://i.imgur.com/n3zWcSJ.png",
                 link: "/loofer",
                 subject: "Education Information Technology",
                 detail: "ปี1เทอม2",
@@ -32,7 +32,7 @@ var app = new Vue({
             {
                 id: 4,
                 title: "Journy and The Little Whale",
-                image: "assets/geekathon.png",
+                image: "https://i.imgur.com/Q7jS4Mk.png",
                 link: "/traveler",
                 subject: "Geek A Thon",
                 detail: "hackathon",
@@ -41,7 +41,7 @@ var app = new Vue({
             {
                 id: 5,
                 title: "สันติ หนังคลาสสิค",
-                image: "assets/arch.png",
+                image: "https://i.imgur.com/1P6KUoK.jpg",
                 link: "/arch",
                 subject: "Job",
                 detail: "รับงาน",
@@ -50,7 +50,7 @@ var app = new Vue({
             {
                 id: 6,
                 title: "Graphico",
-                image: "assets/graphico.png",
+                image: "https://i.imgur.com/CQLyv8O.png",
                 link: "/jointy",
                 subject: "Web Technology",
                 detail: "ปี2เทอม1",
@@ -59,7 +59,7 @@ var app = new Vue({
             {
                 id: 7,
                 title: "SmoIT",
-                image: "assets/smo-it.png",
+                image: "https://i.imgur.com/a4StkZR.png",
                 link: "/smo-it",
                 subject: "Practice Skills",
                 detail: "Vue.js",
@@ -68,7 +68,7 @@ var app = new Vue({
             {
                 id: 8,
                 title: "Dormlab",
-                image: "assets/no-img.png",
+                image: "https://i.imgur.com/QNwTjnN.png",
                 link: "#",
                 subject: "ปี2เทอม2",
                 detail: "Vue.js & Django",
@@ -77,7 +77,7 @@ var app = new Vue({
             {
                 id: 9,
                 title: "Resume",
-                image: "assets/no-img.png",
+                image: "https://i.imgur.com/QNwTjnN.png",
                 link: "#",
                 subject: "Practice Skills",
                 detail: "Vue.js",
@@ -89,7 +89,7 @@ var app = new Vue({
             {
                 id: 0,
                 title: "soon...",
-                image: "assets/no-img.png",
+                image: "https://i.imgur.com/QNwTjnN.png",
                 link: "#",
                 subject: "soon...",
                 detail: "soon..."
@@ -97,7 +97,7 @@ var app = new Vue({
             {
                 id: 1,
                 title: "soon...",
-                image: "assets/no-img.png",
+                image: "https://i.imgur.com/QNwTjnN.png",
                 link: "#",
                 subject: "Startup",
                 detail: "soon..."
