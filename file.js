@@ -51,7 +51,7 @@ var app = new Vue({
                 id: 6,
                 title: "Graphico",
                 image: "https://i.imgur.com/CQLyv8O.png",
-                link: "/jointy",
+                link: "/graphico",
                 subject: "Web Technology",
                 detail: "ปี2เทอม1",
                 admin: ['Jack']
@@ -68,8 +68,8 @@ var app = new Vue({
             {
                 id: 8,
                 title: "Dormlab",
-                image: "https://i.imgur.com/QNwTjnN.png",
-                link: "#",
+                image: "assets/dormlab.png",
+                link: "https://jacktnp.github.io/dormlab/html/login.html",
                 subject: "ปี2เทอม2",
                 detail: "Vue.js & Django",
                 admin: ['Jack', 'Rew', 'Pang']

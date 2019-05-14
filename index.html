@@ -52,16 +52,16 @@
         <h1 class="mt-5">Coming Soon :</h1>
 
 	    <div class="row mt-3">
-                <div class="col-md-4 mb-2" v-for="list in upcoming">
+                <div class="col-md-4 mb-2" v-for="list2 in upcoming">
                     <div class="card">
-                        <img class="card-img-top" :src="list.image" :alt="list.title">
+                        <img class="card-img-top" :src="list2.image">
                         <div class="card-body">
-                            <h5 class="card-title">{{ list.title }}</h5>
+                            <h5 class="card-title">{{ list2.title }}</h5>
                             <p><span class="tag">#Jack</span></p>
-                            <a :href="list.link" class="btn btn-outline-primary w-100">view</a>
+                            <a :href="list2.link" class="btn btn-outline-primary w-100">view</a>
                         </div>
                         <div class="card-footer">
-                            <small class="text-muted">{{ list.subject }} <span class="tag">#{{ list.detail }}</span></small>
+                            <small class="text-muted">{{ list2.subject }} <span class="tag">#{{ list2.detail }}</span></small>
                         </div>
                     </div>
                 </div>
